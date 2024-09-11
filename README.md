@@ -19,18 +19,22 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+### Draft
+![Draft](Draft.jpg)
+
+### Final Image (Color)
+![Final](Final.png)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project shows the unique aspects of the Olympics. I created different methods that show a podium with a bronze, silver, and gold medal. My project also shows the Olympic Rings with different colors. 
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Two things about my project that I am most proud of are the use of methods and the visuals. I used one method to create the outline for my medals and Olympic Rings. This method had a parameter for a color which allowed me to use the method for different aspects of my code. I am also proud of the visuals of my project as I think it looks visually appealing.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - If I had an opportunity to change something about my project, I would add a more detailed background that showed the scenery of the Olympics. For example, I could have created a sunset or something similar to that. 
